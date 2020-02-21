@@ -1,0 +1,88 @@
+/* Created by TopStyle Trial - www.topstyle4.com */
+body{
+	margin-top:0px;
+	font-size: 13px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	background-color:white;
+background-image:url(images/BOTWBack.jpg);
+background-attachment:fixed;
+
+}
+h1{
+color : orange; 
+}
+header,nav,section,footer,aside{
+	width : 970px;
+	display : block;
+	margin : auto;
+}
+
+body {background-color: black;}
+
+}
+aside{
+	background-color: blue;
+}
+.transparent-tables {
+  background-color: transparent !important;
+}
+dd{
+	font-size: 12px;
+	font-style: italic;
+}
+/* Container holding the image and the text */
+.container {
+  position: relative;
+}
+
+/* Bottom right text */
+.text-block {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+  background-color: orange;
+  color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}.flotte {
+float:left;
+}.lightwidget-widget {
+width: 100%;
+border: 0;
+overflow: hidden;
+}.icon-bar {
+  width: 100%;
+  background-color: #cc7100;
+  overflow: auto;
+}
+
+.icon-bar a {
+  float: left;
+  width: 20%;
+  text-align: center;
+  padding: 12px 0;
+  transition: all 0.3s ease;
+  color: white;
+  font-size: 36px;
+}
+
+.icon-bar a:hover {
+  background-color: #ffe1a8;
+}
+
+.active {
+  background-color: orange;
+}
+</style>
+<body>
+
+<div class="icon-bar">
+  <a class="active" href="#"><i class="fa fa-home"></i></a> 
+  <a href="#"><i class="fab fa-linkedin-in"></i>
+  <a href="#"><i class="fa fa-envelope"></i></a> 
+  <a href="#"><i class="fab fa-instagram"></i></a> 
+  <a href="#"><i class="fas fa-graduation-cap"></i></a> 
+</div>
+
+</body>
+</html> 
